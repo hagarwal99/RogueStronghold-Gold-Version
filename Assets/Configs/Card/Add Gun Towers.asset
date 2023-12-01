@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b41dab5d92aa94e76852fd7cc5d3159c, type: 3}
+  m_Name: Add Gun Towers
+  m_EditorClassIdentifier: 
+  cardName: Gun Tower
+  cost: 2
+  descriptions:
+  - 'Add 1 gun tower. '
+  - 'Add 2 gun towers. '
+  - 'Add 3 gun towers. '
+  image: {fileID: 21300000, guid: da98f9d518d6921478604a63b404ed85, type: 3}
+  config: {fileID: 11400000, guid: 4d28b0091e746f24da518fceee136802, type: 2}
+  numLv1: 1
+  numLv2: 2
+  numLv3: 3
