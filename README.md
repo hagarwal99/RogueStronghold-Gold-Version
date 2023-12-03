@@ -1,4 +1,4 @@
-# CSCI526 RogueStronghold - Gold Version
+# RogueStronghold - Gold Version
 
 ## Introduction
 
