@@ -31,11 +31,6 @@ At least 4 consecutive, such as 345678: Upgrade to lv. 2
 
 
 ## Useful Links
-- [Game Design Document](https://docs.google.com/document/d/19GBW6DUg2nxx7mbpawbeLZM2G1hNHMcoKJdMVOQFWxQ/edit#heading=h.a2s9dmlvwxp2)
-- [Gold Play Link](https://github.com/joon-won/RogueStrongholds_Gold)
+- [Game Design Document](https://docs.google.com/document/d/1LhPQia-535X84A5-dbz9ITlVWTJj9aSmaLHPWvk0RHE/edit?usp=sharing)
+- [Gold Play Link](https://hagarwal99.github.io/RougeStrongHold-FinalGame/)
 
-## Old Resources
-- [Prototype Game Design Document](https://docs.google.com/document/d/1jXbeThlcIHKCVpYC_C7eyhcrONmBhVtk/edit?usp=sharing&ouid=111815505834149310152&rtpof=true&sd=true)
-- [Prototype Play Demo Link](https://)
-- [Alpha Play Link](https://joon-won.github.io/CSCI526_RogueStrongholds_Alpha_Final/)
-- [Beta Play Link](https://github.com/joon-won/CSCI526_RogueStrongholds_Beta)
